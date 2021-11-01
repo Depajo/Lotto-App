@@ -97,7 +97,8 @@ public class Main {
      * 
      * Method calculate lottery numbers and then return array where is the random numbers.
      * 
-     * 
+     * There are as many numbers as you have specified for LOTTO_NUMBER_COUNT. 
+     * The range of drawn numbers depends on what the BIGGEST LOTTO NUMBER is.
      * 
      * @return Integer array where are the number seven random number.
      */
@@ -126,7 +127,7 @@ public class Main {
      * WeeklyLotto variable calls calculateLotto() method which gets, for example, seven random numbers.
      * Then compares users lottery numbers and weeklyLotto variable with the Arrays.containsSameValues method. 
      * It gets the number how many is correct. 
-     * If the correctly hits number is for example seven then lifetime variable is true and the loop is be stopped.
+     * If the correctly number is for example seven then lifetime variable is true and the loop is be stopped.
      * Otherwise it increments the weeks variable by one. 
      * It then adds the number of years to the BestOf array. 
      * The position of the BestOf array is determined by the how many hit right.
