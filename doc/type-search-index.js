@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.depascalejoonatan.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.depascalejoonatan","l":"Main"},{"p":"fi.tuni.tamk.tiko.depascalejoonatan.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.depascalejoonatan.util","l":"MyConsole"}];updateSearchResults();
