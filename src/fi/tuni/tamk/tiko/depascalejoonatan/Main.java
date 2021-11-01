@@ -20,8 +20,6 @@ import fi.tuni.tamk.tiko.depascalejoonatan.util.*;
 
 public class Main {
 
-    
-
     static final int LOTTO_NUMBER_COUNT = 7;
     static final int BIGGEST_LOTTO_NUMBERS = 40;
     static boolean SHOW_WINS = false;
@@ -36,7 +34,6 @@ public class Main {
         lifetimeLotto(lottoLine);
         
     }
-
     
     /** 
      * 
