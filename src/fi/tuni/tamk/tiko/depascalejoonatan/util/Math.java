@@ -3,10 +3,6 @@ package fi.tuni.tamk.tiko.depascalejoonatan.util;
 /**
 * The class Math contains methods for performing basics.
 *
-* Unlike some of the numeric methods of class StrictMath, all implementations 
-* of the equivalent functions of class Math are not defined to return 
-* the bit-for-bit same results.
-*
 * @author Joonatan De Pascale
 */
 
