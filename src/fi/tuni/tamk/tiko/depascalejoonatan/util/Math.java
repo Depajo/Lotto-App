@@ -1,6 +1,7 @@
 package fi.tuni.tamk.tiko.depascalejoonatan.util;
 
 /**
+* 
 * The class Math contains methods for performing basics.
 *
 * @author Joonatan De Pascale
