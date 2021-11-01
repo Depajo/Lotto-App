@@ -7,7 +7,7 @@ I made Lotto Application that tells how many years you must play lotto before yo
 
 ## Features
 
-Write seven numbers to Lotto Application. You can enter numbers one by one or all number to commandline. If you change in `Main.jav` variable `Static final int LOTTO_NUMBER_COUNT`value, then the number of numbers to be draw change.
+Write seven numbers to Lotto Application. You can enter numbers one by one or all number to commandline. If you change in `Main.java` variable `Static final int LOTTO_NUMBER_COUNT`value, then the number of numbers to be draw change.
 
 ## How to start using
 Downlad Lotto-App folder and open commandline and go to src folder. Then you have to run
