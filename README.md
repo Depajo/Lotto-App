@@ -8,7 +8,8 @@ I made Lotto Application that tells how many years you must play lotto before yo
 ## How to use
 
 Write seven numbers to Lotto Application. You can enter numbers one by one or all number to commandline.
-For example:
-Go to src folder and then
+
+## How to start using
+Downlad src folder and go to commandline to src folder and then run
 `javac fi/tuni/tamk/tiko/depascalejoonatan/Main.java`
 `java fi/tuni/tamk/tiko/depascalejoonatan/Main`
